@@ -1,3 +1,9 @@
 Debug/
-Release/
 .vs/
+*.tlog
+*.log
+*.iobj
+*.ipdb
+*.obj
+*.pdb
+*.pch
